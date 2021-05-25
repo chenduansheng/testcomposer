@@ -1,11 +1,11 @@
 {
-    "name": "cds/testcomposer",
+    "name": "chenduansheng/testcomposer",
     "description": "666666",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "cds",
+            "name": "chenduansheng",
             "email": "476210724@qq.com"
         }
     ],
